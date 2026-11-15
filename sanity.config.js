@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'dmgamesshop',
 
-  projectId: 'kzaj6fyu',
+  projectId: 'ubi4x431',
   dataset: 'production',
 
   plugins: [structureTool(), visionTool()],
